@@ -2,7 +2,7 @@
 
 Este proyecto fue realizado para cumplir con la entrega del curso ReactJS en Coderhouse.
 
-![image](/public/BookifyReadMe.png)
+![image](Bookify-ReactJS-AENRIQUE/public/BookifyReadMe.png)
 
 ### Instalación ⚙️
 
