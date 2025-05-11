@@ -2,12 +2,12 @@
 
 Este proyecto fue realizado para cumplir con la entrega del curso ReactJS en Coderhouse.
 
-![image](Bookify-ReactJS-AENRIQUE/public/BookifyReadMe.png)
+![Bookify Preview](BookifyReadMe.png)
 
 ### Instalación ⚙️
 
 1. Clone el repositorio
-2. Haga el comando `cd Bookify-ReactJS-AENRIQUE` para moverse a la carpeta del proyecto
+2. Haga el comando `cd 69600-react-aenrique` para moverse a la carpeta del proyecto
 3. Instale dependencias con el comando `npm install`
 4. Para levantar la app en servidor local ejecute el comando `npm run dev`
 
