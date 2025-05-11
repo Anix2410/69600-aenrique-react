@@ -2,7 +2,7 @@
 
 Este proyecto fue realizado para cumplir con la entrega del curso ReactJS en Coderhouse.
 
-![📸 Bookify Preview](/BookifyReadMe.png)
+![📸 Bookify Preview](BookifyReadMe.png)
 
 ### Instalación ⚙️
 
